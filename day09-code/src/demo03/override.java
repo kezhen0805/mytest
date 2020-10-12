@@ -6,5 +6,6 @@ public class override {
         System.out.println("admin");
         System.out.println("冯硕");
         System.out.println("tijiao");
+        System.out.println("自由人");
     }
 }
